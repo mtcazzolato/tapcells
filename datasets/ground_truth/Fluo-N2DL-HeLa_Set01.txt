@@ -1,4 +1,4 @@
-cellId,activeCells,totalCells
+imageId,activeCells,totalCells
 0,43,43
 1,43,43
 2,43,45

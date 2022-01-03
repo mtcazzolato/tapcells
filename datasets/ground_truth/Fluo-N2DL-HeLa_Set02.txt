@@ -1,4 +1,4 @@
-cellId,activeCells,totalCells
+imageId,activeCells,totalCells
 0,125,125
 1,132,138
 2,134,142
